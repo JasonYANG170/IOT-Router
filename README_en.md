@@ -9,42 +9,42 @@
 [![Discord](https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec)](https://discord.com/invite/az3ceRmgVe)
 
 
-这是一项基于C语言的IOT-Router
+This is an IOT-Router based on C language
 
 </div>
 
 
 
 
-## 功能
-- ✅支持将蓝牙设备连接到MQTT服务器
-- ✅支持通过MQTT远程控制蓝牙设备
-- ✅支持本地WebServer控制蓝牙设备
-- ✅支持ETH以太网连接
-- ✅支持串口调试
-- ✅理论支持以太网络转WIFI网络，充当路由
+## Features
+- ✅Supports connecting Bluetooth devices to MQTT server
+- ✅Support remote control of Bluetooth devices via MQTT
+- ✅Support local WebServer to control Bluetooth devices
+- ✅Supports ETH Ethernet connection
+- ✅Supports serial port debugging
+- ✅Theoretically supports converting Ethernet network to WIFI network and acting as a router
 - 
-如遇问题，请向我提出issues
+If you encounter any problems, please submit issues to me
 
 
-## 项目参数
+## Project parameters
 
-* 本设计采用ESP32C3主控，以实现较低成本；
-* 本设计采用W5500，以实现以太网接入；
-* 本设计采AHT10，以实现环境数据监测；
+* This design uses ESP32C3 master control to achieve lower cost;
+* This design uses W5500 to achieve Ethernet access;
+* This design adopts AHT10 to realize environmental data monitoring;
 
-## 开源协议
-本项目遵循CC BY-NC-SA 4.0开源协议，使用本程序时请注明出处并进行版权声明  
-本项目仅供学习研究与学习，严禁非授权的商业获利，  
-如果您有更好的建议，欢迎PR
+## Open Source Agreement
+This project follows the CC BY-NC-SA 4.0 open source agreement. When using this program, please indicate the source and make a copyright statement.
+This project is for study, research and study only, and unauthorized commercial profits are strictly prohibited.
+If you have better suggestions, please PR
 
-## 喜欢这个项目，请为我点个Star ⭐
+## If you like this project, please give me a star ⭐
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JasonYANG170/IOT-Router&type=Date)](https://star-history.com/#star-history/star-history&Date)
 
 
 
-## 实物图
+## Actual picture
 
 | 1 | 2 |
 | --- | --- |
